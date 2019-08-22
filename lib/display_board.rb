@@ -2,10 +2,10 @@
 def display_board
   puts "Welcome to Tic Tac Toe"
   puts "   |   |   \n"
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+  puts "-----------\n"
+  puts "   |   |   \n"
+  puts "-----------\n"
+  puts "   |   |   \n"
 end   
 
 display_board
